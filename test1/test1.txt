@@ -1,3 +1,9 @@
 hi, i'm arshita
+<<<<<<< HEAD
 hi, i'm rosvin {heyaaa}
 hi, i'm rachana
+=======
+hi, i'm rosvin
+hi, i'm rachana 
+baby calm down
+>>>>>>> 60d6b705ce60340f07986f245937ca82e8776a48
