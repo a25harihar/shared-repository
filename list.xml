@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="list">
+    <title>list</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>ol/ul</cmd>
+                <info>
+                    <ol id="ol_nrb_fmx_r2c">
+                        <li>Fruit</li>
+                    </ol>
+                    <ul id="ul_xcj_fmx_r2c">
+                        <li>Tomato</li>
+                    </ul>
+                    <ol outputclass="continue">
+                        <li>Onion</li>
+                    </ol>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>
